@@ -21,7 +21,7 @@ Telegram-бот для мгновенных оповещений о новых �
 Хотите интегрировать бота или предложить улучшения? Мы открыты к сотрудничеству!
 
 ```bash
-git clone https://github.com/Molzka/gaspump_sniper_bot.git
+git clone https://github.com/Molzka/gaspump-sniper-bot.git
 cd gaspump_sniper_bot
 pip3 install -r ./requirements.txt
 python3 main.py
